@@ -133,12 +133,13 @@ body {
 }
 
 .back-home h1{
-  margin: 0;
+  margin: 40px;
   position: absolute;
-  left: 23%;
-  top: 80%;
+  left: 15%;
+  top: 73%;
   transform: translate(-50%,-50%);
-  text-justify: 10px 10px black;
+  text-align: center;
+  padding-left: 66px;
 }
 
 .back-home .back-home:before {
