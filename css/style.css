@@ -39,11 +39,12 @@ body {
 }
 /*------------------------------------------*/
 /*Resize media for mobile below*/ /*Mobile SIZE*/
-@media (max-width:28rem) {
+@media (max-width:28.75rem) {
   .nav {
     justify-content: center;
     opacity: 0.9;
     font-size: 10px;
+    max-width: 480px;
   }
   .nav-list {
     margin: 2rem;
@@ -104,7 +105,7 @@ body {
 /*------------------------------------------*/
 /*BELOW IS IMPORTANT FOR POSITION AND BACKGROUND FOR MOBILE COVER OF ME!!!!*/
 /*Mobile SIZE*/
-@media (max-width:28rem) {
+@media (max-width:28.75rem) {
   #main {
     background-size: cover;
     width: 100%;
@@ -267,7 +268,7 @@ img {
   max-width: 80rem;
 }
 /*Mobile SIZE*/
-@media (max-width: 30.625em) {
+@media (max-width: 28.75em) {
   .portfo-secton {
     padding: 6rem 1rem;
   }
