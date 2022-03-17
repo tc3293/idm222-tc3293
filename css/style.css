@@ -135,9 +135,9 @@ body {
 .back-home h1{
   margin: 40px;
   position: absolute;
-  left: 15%;
+  left: 11%;
   top: 73%;
-  transform: translate(-50%,-50%);
+  transform: translate(-40%,-40%);
   text-align: center;
   padding-left: 66px;
 }
@@ -199,7 +199,7 @@ h1,h2 {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 40px;
   text-shadow: 6px 4px black;
 }
 
